@@ -1,15 +1,14 @@
-# first_windows
+# first_windows App : UI For Flutter mail Application
 
-A new Flutter project.
+A new Flutter project this is Flutter mail ui for Windows App using Fluent ui.
 
 ## Getting Started
+![image](https://github.com/user-attachments/assets/eab4aa39-564e-4c6b-b462-73c21b7a5068)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/04638b0b-abea-4610-bc8f-260e6f0f682e)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/41c057a4-d9b3-4081-83fb-a37ffb550110)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
